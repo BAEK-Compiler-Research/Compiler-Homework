@@ -1,0 +1,7 @@
+void main()
+{
+	int num=1,abeek=1;
+	num=num+abeek;
+	printf("value : ",num);
+}
+	
